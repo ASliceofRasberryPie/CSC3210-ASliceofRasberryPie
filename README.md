@@ -1,6 +1,6 @@
 # Project-A1
 ---
-## Team: ASliceofRasberryPie
+## Team ASliceofRasberryPie
 ### Members:
 - Aaron Portal
 - Leo Zheng
