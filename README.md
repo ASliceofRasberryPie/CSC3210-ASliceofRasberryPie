@@ -1,7 +1,7 @@
 # Project-A1
 ---
 ## Team: ASliceofRasberryPie
-### Members:
+*Members:
 --*Aaron Portal
 --*Leo Zheng
 --*Mah Tej Rella
